@@ -6,6 +6,3 @@
 <a href="https://github.com/SkyDiscovery">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDiscovery&theme=github_dark" />
 </a>
-<a href="https://github.com/SkyDiscovery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkyDiscovery&repo=discord-phishing-links&theme=github_dark" />
-</a>
